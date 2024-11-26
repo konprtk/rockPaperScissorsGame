@@ -11,7 +11,7 @@ Welcome to the Rock Paper Scissors game! This is a simple browser-based game whe
 
 ## Demo
 
-You can try the game live here: [Live Demo](https://konprtk.me/rockPaperScissorsGame/)
+You can try the game live here(use Ctrl + click): [Live Demo](https://konprtk.me/rockPaperScissorsGame/)
 
 ## Installation
 
